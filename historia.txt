@@ -3,6 +3,4 @@ que nació en Alemania.
 
 Mañana nos enfocaremos en su vida laboral.
 
-Esta es la prueba del git rm --cached
-
-Esta es la prueba de git reset --soft
+Anita Platzi tiene 41 años y nació en internet
