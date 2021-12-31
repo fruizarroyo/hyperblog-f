@@ -10,3 +10,4 @@ Un blog increíble
 * El verdadero amor a las buenas prácticas
 * Trucos muy locos del profesor.
 * Las personalidades múltiples de Freddy
+* Creado por el increíble PlatziTeam
