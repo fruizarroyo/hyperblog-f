@@ -12,3 +12,4 @@ Un blog increíble
 * Las personalidades múltiples de Freddy
 * Creado por el increíble PlatziTeam
 * incluye ejemplso en Windows, Linux y Mac
+* disponible para todas las edades
